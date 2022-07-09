@@ -1,6 +1,6 @@
 package com.syntax.class26;
 
-public class WebDriver {
+
     public interface WebDriver {
 
         /*

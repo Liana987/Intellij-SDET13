@@ -1,6 +1,6 @@
 package com.syntax.class26;
 
-public class Test {
+public class Test1 {
     public static void main(String[] args) {
         Registration registration = new Registration();
         registration.setEmail("yahoo.com");
